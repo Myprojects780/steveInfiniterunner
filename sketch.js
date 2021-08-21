@@ -390,3 +390,4 @@ function reset(){
     score7=0
     gamestate="ALIVE"
 }
+//changess
