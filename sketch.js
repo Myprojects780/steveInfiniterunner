@@ -217,7 +217,7 @@ if (gamestate==="ALIVE"){
             zombie.velocityX=0
             
             bg.velocityX=0
-            healthOFsteve.destroy()
+            healthOFsteve.visible=false
             gamestate="DEAD"
 
         }
